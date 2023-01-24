@@ -35,4 +35,15 @@
         <font color="#3b0072"><b>Login</b></font></string>
     <string name="home_title">Home</string>
     <string name="btn_logout">Logout</string>
+    <string name="reset_pw_title">Reset your password</string>
+    <string name="reset_pw_sub_title">
+        <font color="#3b0072">Reset Password</font>
+        if you forgot your password.
+    </string>
+    <string name="btn_reset_pw">Reset Password</string>
+
+    <string name="back_to_login">
+        Back to
+        <font color="#e14f59"><b>Login</b></font>
+    </string>
 </resources>
