@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259082578277",
+    "project_id": "tuimedaqapp",
+    "storage_bucket": "tuimedaqapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259082578277:android:bbf404b31d6be9f75d598c",
+        "android_client_info": {
+          "package_name": "com.example.tuimedaq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259082578277-najokoojv8e4juj86kcl5883v77ukknk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxG0dGwtt-l44qxEiX3z-xPOXg_DeLbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259082578277-najokoojv8e4juj86kcl5883v77ukknk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
